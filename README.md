@@ -2,7 +2,7 @@ sysglance é ferramenta leve de auditoria de sistema que exibe IP, hardware ID e
 
 ---
 
-# O que faz? 
+## O que faz? 
 
 Ao executar, o `sysglance` coleta e exibe rapidamente:
 
@@ -13,7 +13,7 @@ Ao executar, o `sysglance` coleta e exibe rapidamente:
 
 ---
 
-# Como usar
+## Como usar
 
 Pré-requisito: Python 3.x instalado.
 
@@ -48,7 +48,7 @@ python3
 
 ---
 
-##Tecnologias
+## Tecnologias
 
 - Python 3
 - `subprocess` — execução de comandos do sistema
@@ -57,13 +57,13 @@ python3
 
 ---
 
-# Status
+## Status
 
 Projeto em desenvolvimento — feito para fins de aprendizado.  
 Erros e limitações são esperados e fazem parte do processo.
 
 ---
 
-# Autor
+## Autor
 
 **falep9** — [github.com/falep9](https://github.com/falep9)
