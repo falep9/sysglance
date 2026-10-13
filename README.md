@@ -57,11 +57,6 @@ python3
 
 ---
 
-## Status
-
-Projeto em desenvolvimento — feito para fins de aprendizado.  
----
-
 ## Autor
 
 **falep9** — [github.com/falep9](https://github.com/falep9)
