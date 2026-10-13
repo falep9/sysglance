@@ -60,8 +60,6 @@ python3
 ## Status
 
 Projeto em desenvolvimento — feito para fins de aprendizado.  
-Erros e limitações são esperados e fazem parte do processo.
-
 ---
 
 ## Autor
